@@ -5,7 +5,23 @@
 
 
 
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=Joaosilgo&show_icons=true&hide_border=true&icon_color=2e2e1f&text_color=2e2e1f&title_color=2e2e1f" >
+
+
+
+<p align="center">
+
+  <br><br>
+  <samp>
+I'm João Gomes. A Computer Engineering Student , from  Portugal.  
+     <br><br>Contact me on <a href="https://joaosilgo.github.io/joaogomes/">Website</a> or <a href="mailto:joaosilgo96@gmail.com.com"</a>
+  </samp>
+</p>
+
+
 <!--
 **Joaosilgo/Joaosilgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
