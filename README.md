@@ -4,6 +4,9 @@
 ![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https://joaosilgo.github.io/joaogomes/)
 
 
+Phone: (+351) 964 575 619
+
+Email: <a href="mailto:joaosilgo96@gmail.com">joaosilgo96@gmail.com</a>
 
 </br>
 
