@@ -15,18 +15,18 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 ### <p align="center">**Keep Rocking**  </p>
 
 
+
+<section align="center">
+ 
+### <p align="center">**SKILLS**</p>
+
+
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/html5.svg"  width="20" height="20" /></a>
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/bootstrap.svg"  width="20" height="20" /></a>
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/javascript.svg"  width="20" height="20" /></a>
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
 
 
-
- <span style="font-family:Papyrus; font-size:4em;">APAIXONADO!</span>
-
-<p align="center">
-
-SKILLS
   <br><br>
   <samp>
 PROGRAMMING LANGUAGES & TOOLS
@@ -69,7 +69,7 @@ Agile Development & Scrum
 
 
   </samp>
-</p>
+</section>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosilgo&show_icons=true&hide_border=true&icon_color=2e2e1f&text_color=2e2e1f&title_color=2e2e1f" >
