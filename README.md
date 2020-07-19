@@ -21,8 +21,52 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
 
 
+<p align="center">
+
+SKILLS
+  <br><br>
+  <samp>
+PROGRAMMING LANGUAGES & TOOLS
+
+                   
+PROGRAMMING LANGUAGES
+Java
+C++
+C#
+JavaScript
+Html
+CSS
+SQL
+Linq
+CommonLisp
+
+DATABASES
+MySql
+SQL Server
+
+FRAMEWORKS
+ASP.NET
+Node.js
+Bootstrap
+Express.js
+
+IDE
+NetBeans
+BlueJ
+Visual Studio
+Visual Studio Code
+MySQL
+MS SQL Server
+
+WORKFLOW
+Responsive Design
+Cross Browser Testing & Debugging
+Agile Development & Scrum
 
 
+
+  </samp>
+</p>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosilgo&show_icons=true&hide_border=true&icon_color=2e2e1f&text_color=2e2e1f&title_color=2e2e1f" >
