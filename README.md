@@ -5,6 +5,16 @@
 
 
 
+</br>
+
+## &nbsp; &nbsp; &nbsp; **About Me**
+
+Finalist in Computer Engineering Degree, for the last three consecutive years i had the opportunity of acquire technical knowledge and practices at the level of various programming languages ​​and business management where various work methodology was imposed, methodology based on requirements gathering, analysis, design, implementation, installation, maintenance as well as a project management. It has been a course with a strong component of practice, where I have been acquiring a lot of knowledge that serves as a basis for entering in the market. At this point is only missing an internship component curriculum for finish the degree.
+
+
+### <p align="center">**Keep Rocking**  </p>
+
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosilgo&show_icons=true&hide_border=true&icon_color=2e2e1f&text_color=2e2e1f&title_color=2e2e1f" >
