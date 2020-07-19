@@ -17,7 +17,7 @@
   <br><br>
   <samp>
 I'm João Gomes. A Computer Engineering Student , from  Portugal.  
-     <br><br>Contact me on <a href="https://joaosilgo.github.io/joaogomes/">Website</a> or <a href="mailto:joaosilgo96@gmail.com.com"</a>
+     <br><br>Contact me on <a href="https://joaosilgo.github.io/joaogomes/">Website</a> or <a href="mailto:joaosilgo96@gmail.com">Email</a>
   </samp>
 </p>
 
