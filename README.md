@@ -16,7 +16,7 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 
 
 
-<section align="center">
+
  
 ### <p align="center">**SKILLS**</p>
 
@@ -28,7 +28,7 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 
 
   <br><br>
-  <samp>
+
 PROGRAMMING LANGUAGES & TOOLS
 
                    
@@ -68,8 +68,6 @@ Agile Development & Scrum
 
 
 
-  </samp>
-</section>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosilgo&show_icons=true&hide_border=true&icon_color=2e2e1f&text_color=2e2e1f&title_color=2e2e1f" >
