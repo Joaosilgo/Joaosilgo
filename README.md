@@ -34,14 +34,22 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
                    
 ### PROGRAMMING LANGUAGES
 
-:white_circle: Java
+Java
+
 C++
+
 C#
+
 JavaScript
+
 Html
+
 CSS
+
 SQL
+
 Linq
+
 CommonLisp
 
 DATABASES
