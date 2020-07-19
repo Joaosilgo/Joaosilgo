@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/Joaosilgo?style=social)
-![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https%3A%2F%2Fjoaosilgo.github.io%2Fjoaogomes%2F)
+![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=joaosilgo.github.io/joaogomes)
 <!--
 
 
