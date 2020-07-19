@@ -17,7 +17,7 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 
 
 
- ## &nbsp; &nbsp; &nbsp; **SKILLS**
+ ## &nbsp; &nbsp; &nbsp; **Skills**
 
 
 
