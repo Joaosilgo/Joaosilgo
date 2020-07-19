@@ -21,6 +21,9 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
 
 
+
+ <span style="font-family:Papyrus; font-size:4em;">APAIXONADO!</span>
+
 <p align="center">
 
 SKILLS
