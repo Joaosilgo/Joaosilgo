@@ -34,46 +34,40 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
                    
 ### PROGRAMMING LANGUAGES
 
-Java
+* Java
+* C++
+* C#
+* JavaScript
+* Html
+* CSS
+* SQL
+* Linq
+* CommonLisp
 
-C++
+### DATABASES
 
-C#
+* MySql
+* SQL Server
 
-JavaScript
+### FRAMEWORKS
 
-Html
+* ASP.NET
+* Node.js
+* Bootstrap
+* Express.js
 
-CSS
+### IDE
+* NetBeans
+* BlueJ
+* Visual Studio
+* Visual Studio Code
+* MySQL
+* MS SQL Server
 
-SQL
-
-Linq
-
-CommonLisp
-
-DATABASES
-MySql
-SQL Server
-
-FRAMEWORKS
-ASP.NET
-Node.js
-Bootstrap
-Express.js
-
-IDE
-NetBeans
-BlueJ
-Visual Studio
-Visual Studio Code
-MySQL
-MS SQL Server
-
-WORKFLOW
-Responsive Design
-Cross Browser Testing & Debugging
-Agile Development & Scrum
+### WORKFLOW
+* Responsive Design
+* Cross Browser Testing & Debugging
+* Agile Development & Scrum
 
 
 
