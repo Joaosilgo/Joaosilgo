@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/Joaosilgo?style=social)
+![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https%3A%2F%2Fjoaosilgo.github.io%2Fjoaogomes%2F)
 <!--
+
+
+![Joao Gomes's github stats]https://github-readme-stats.vercel.app/api?username=Joaosilgo&show_icons=true&hide_border=true&icon_color=2e2e1f&text_color=2e2e1f&title_color=2e2e1f
+
 **Joaosilgo/Joaosilgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
