@@ -33,7 +33,8 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 
                    
 ### PROGRAMMING LANGUAGES
-Java
+
+:white_circle: Java
 C++
 C#
 JavaScript
@@ -77,7 +78,7 @@ Agile Development & Scrum
 <p align="center">
   <br><br>
   <samp>
-                                I'm João Gomes. A Computer Engineering Student , from  Portugal.  
+                                I'm João Gomes. A Computer Engineering Student , from  Portugal .  
      <br><br>Contact me on <a href="https://joaosilgo.github.io/joaogomes/">Website</a> or <a href="mailto:joaosilgo96@gmail.com">Email</a>
   </samp>
 </p>
