@@ -38,6 +38,20 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/bootstrap.svg"  width="20" height="20" /></a>
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/javascript.svg"  width="20" height="20" /></a>
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
 
 
   <br><br>
