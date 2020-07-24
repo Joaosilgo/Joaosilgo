@@ -46,12 +46,12 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/node-dot-js.svg"  width="20" height="20" /></a>
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/jquery.svg"  width="20" height="20" /></a>
 <a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/git.svg"  width="20" height="20" /></a>
-<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
-<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
-<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
-<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
-<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
-<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/markdown.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/windows.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/linux.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/stackoverflow.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/vue-dot-js.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/ubuntu.svg"  width="20" height="20" /></a>
+<a href="https://joaosilgo.github.io/joaogomes/"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/visualstudiocode.svg"  width="20" height="20" /></a>
 
 
   <br><br>
