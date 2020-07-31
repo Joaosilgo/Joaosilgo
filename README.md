@@ -100,6 +100,13 @@ Finalist in Computer Engineering Degree, for the last three consecutive years i 
 
 
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaosilgo&show_icons=true&hide_border=true&text_color=2e2e1f&title_color=2e2e1f" >
+
+
+
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joaosilgo&show_icons=true&hide_border=true&icon_color=2e2e1f&text_color=2e2e1f&title_color=2e2e1f" >
 
 
