@@ -13,7 +13,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Joaosilgo?style=social)
 
-![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https://joaosilgo.github.io/joaogomes/)
+[![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https://joaosilgo.github.io/joaogomes/)](https://joaosilgo.github.io/joaogomes/)
 
 
 Phone: (+351) 964 575 619
