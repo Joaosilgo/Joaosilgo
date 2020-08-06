@@ -9,6 +9,8 @@
   </samp>
 </p>
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://joaosilgo.github.io/joaogomes/#contact)
+
 ![GitHub followers](https://img.shields.io/github/followers/Joaosilgo?style=social)
 
 ![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https://joaosilgo.github.io/joaogomes/)
