@@ -15,6 +15,7 @@
 
 [![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https://joaosilgo.github.io/joaogomes/)](https://joaosilgo.github.io/joaogomes/)
 
+ [Whatsapp](https://wa.me/964575619)
 
 Phone: (+351) 964 575 619
 
