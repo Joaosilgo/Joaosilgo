@@ -17,7 +17,7 @@
 
 
  
- <a href="https://api.whatsapp.com/send?phone=+351964575619&text=Hi%20There"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/iconfinder_whatsup_633187.svg"   /></a>
+ <a href="https://api.whatsapp.com/send?phone=+351964575619&text=Hi%20There"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/iconfinder_whatsup_633187.svg" width="20" height="20"  /></a>
  
  <!--[Whatsapp](https://api.whatsapp.com/send?phone=+351964575619&text=Hi%20There) -->
 
