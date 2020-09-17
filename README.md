@@ -15,7 +15,11 @@
 
 [![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https://joaosilgo.github.io/joaogomes/)](https://joaosilgo.github.io/joaogomes/)
 
- [Whatsapp](https://api.whatsapp.com/send?phone=+351964575619&text=Hi%20There)
+
+ 
+ <a href="https://api.whatsapp.com/send?phone=+351964575619&text=Hi%20There"><img src="https://raw.githubusercontent.com/Joaosilgo/Joaosilgo/master/img/iconfinder_whatsup_633187.svg"   /></a>
+ 
+ <!--[Whatsapp](https://api.whatsapp.com/send?phone=+351964575619&text=Hi%20There) -->
 
 Phone: (+351) 964 575 619
 
