@@ -15,7 +15,10 @@
 
 [![Website](https://img.shields.io/website?down_message=offline&style=plastic&up_color=%23331a00&up_message=online&url=https://joaosilgo.github.io/joaogomes/)](https://joaosilgo.github.io/joaogomes/)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="JoaoGomes" data-color="#FFFFFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000" data-font-color="#000" data-coffee-color="#fd0" ></script>
+
+
+
+<a href="https://www.buymeacoffee.com/JoaoGomes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 50px !important;" ></a>
 
 
  
